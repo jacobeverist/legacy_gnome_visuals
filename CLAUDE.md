@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 A collection of standalone Python visualization scripts for the HyperGrid Transform (HGT) — a neuromorphic encoding scheme. There is no build system, no test suite, and no unified entry point. Each script is independently runnable.
 
-Rendered outputs (PNGs, GIFs, MKVs) produced by this code are archived at https://github.com/jacobeverist/legacy_gnome_gallery, which also hosts a browseable gallery website.
+Rendered outputs (PNGs, GIFs, MKVs) produced by this code are archived at https://github.com/jacobeverist/legacy_gnome_gallery and browseable at https://jacobeverist.github.io/legacy_gnome_gallery/.
 
 ## Running Scripts
 
